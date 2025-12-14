@@ -9,7 +9,6 @@ We will be comparing:
 - [bytedance/sonic](https://github.com/bytedance/sonic)
 - [json-iterator/go](https://github.com/json-iterator/go)
 - [mailru/easyjson](https://github.com/mailru/easyjson)
-- [minio/simdjson-go](https://github.com/minio/simdjson-go)
 - [buger/jsonparser](https://github.com/buger/jsonparser)
 
 ## Comparison Methodology
